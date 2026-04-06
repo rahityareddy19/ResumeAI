@@ -1,0 +1,39 @@
+CAROL NGUYEN
+Data Analyst
+Email: carol.nguyen@email.com | Phone: (555) 345-6789
+
+SUMMARY
+Detail-oriented data analyst with 2 years of experience in business intelligence and reporting. Skilled in SQL, Excel, and data visualization tools. Transitioning interest toward software engineering.
+
+SKILLS
+Technical Skills: SQL, Python, R, Excel, Tableau, Power BI, MATLAB, Data Analysis, Data Visualization, Statistical Analysis, Pandas, NumPy, Jupyter Notebooks
+
+EXPERIENCE
+
+Data Analyst — InsightMetrics
+June 2022 - Present
+- Created weekly and monthly business reports using SQL queries and Tableau dashboards
+- Analyzed customer behavior data to identify trends and produce actionable insights
+- Wrote Python scripts using Pandas and NumPy for data cleaning and transformation
+- Built Excel-based financial models and automated reporting processes
+- Presented findings to stakeholders through data visualization and storytelling
+
+Junior Data Analyst — RetailData Co.
+January 2021 - May 2022
+- Queried large datasets using SQL (MySQL) to support marketing campaigns
+- Used R for statistical analysis of A/B test results
+- Created Power BI dashboards for real-time sales monitoring
+- Collaborated with the engineering team on data pipeline improvements
+
+PROJECTS
+
+Sales Prediction Model
+- Built a Python machine learning model using scikit-learn to predict quarterly sales
+- Achieved 85% accuracy using Random Forest and feature engineering
+
+COVID-19 Dashboard
+- Created an interactive Tableau dashboard tracking pandemic metrics
+- Integrated data from multiple public APIs using Python
+
+EDUCATION
+B.S. Statistics, University of Washington, 2020

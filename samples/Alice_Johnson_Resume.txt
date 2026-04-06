@@ -1,0 +1,41 @@
+ALICE JOHNSON
+Full-Stack Software Engineer
+Email: alice.johnson@email.com | Phone: (555) 123-4567 | GitHub: github.com/alicejohnson
+
+SUMMARY
+Experienced full-stack developer with 4+ years of expertise building production web applications using React, Node.js, and cloud technologies. Passionate about clean code, scalable architecture, and team collaboration.
+
+SKILLS
+Technical Skills: JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, Redis, AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Git, GitHub Actions, CI/CD, REST APIs, GraphQL, Jest, Mocha, Agile, Scrum
+
+EXPERIENCE
+
+Senior Software Engineer — CloudScale Technologies
+January 2022 - Present
+- Developed and maintained a multi-tenant SaaS platform using React and Next.js serving 50K+ users
+- Built scalable RESTful APIs with Node.js and Express, reducing response times by 40%
+- Managed PostgreSQL databases, designed schemas, and optimized complex queries
+- Containerized services with Docker and orchestrated deployments on Kubernetes (AWS EKS)
+- Implemented CI/CD pipelines using GitHub Actions for automated testing and deployment
+- Participated in weekly Agile ceremonies, code reviews, and architectural planning sessions
+
+Software Engineer — DataStream Inc.
+June 2020 - December 2021
+- Built interactive dashboards with React and TypeScript for real-time data visualization
+- Developed Python-based data processing pipelines integrated with AWS Lambda
+- Designed and implemented GraphQL API layer for flexible data fetching
+- Managed MongoDB collections and implemented caching with Redis
+- Collaborated with product teams to define requirements and ship features iteratively
+
+PROJECTS
+
+Open Source CLI Tool — github.com/alicejohnson/deploy-kit
+- Built a Node.js CLI tool for streamlined Docker deployments with 500+ GitHub stars
+- Integrated with AWS ECS and Kubernetes for multi-platform deployments
+
+Real-time Collaboration App
+- Developed a WebSocket-based collaborative document editor using React and Node.js
+- Implemented conflict resolution and real-time syncing for 100+ concurrent users
+
+EDUCATION
+B.S. Computer Science, Stanford University, 2020

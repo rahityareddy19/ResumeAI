@@ -1,0 +1,42 @@
+Full-Stack Developer — TechNova Inc.
+
+Location: Remote / Hybrid (San Francisco, CA)
+Employment Type: Full-Time
+Experience Level: Mid-Senior (3-5 years)
+
+About the Role:
+We are seeking a talented Full-Stack Developer to join our engineering team. You will be responsible for designing, developing, and maintaining web applications using modern frameworks and cloud technologies. You will collaborate closely with product managers, designers, and fellow engineers to deliver exceptional user experiences.
+
+Responsibilities:
+- Design and develop scalable web applications using React and Node.js
+- Build RESTful APIs and integrate with third-party services
+- Write clean, maintainable, well-tested code
+- Participate in code reviews and architectural discussions
+- Optimize application performance and ensure reliability
+- Collaborate with cross-functional teams using Agile methodologies
+- Deploy and manage applications on AWS cloud infrastructure
+
+Required Skills:
+- JavaScript, TypeScript, Python
+- React, Next.js
+- Node.js, Express
+- PostgreSQL, MongoDB
+- AWS (EC2, S3, Lambda)
+- Docker, Kubernetes
+- Git, CI/CD pipelines
+- REST APIs, GraphQL
+- Unit testing, integration testing
+
+Nice to Have:
+- Experience with machine learning or data engineering
+- Familiarity with Terraform or infrastructure as code
+- Knowledge of Redis, Elasticsearch
+- Experience with microservices architecture
+- Contributions to open-source projects
+
+What We Offer:
+- Competitive salary ($130K - $170K)
+- Stock options
+- Flexible remote work policy
+- Health, dental, and vision insurance
+- Annual learning and development budget

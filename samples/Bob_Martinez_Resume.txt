@@ -1,0 +1,41 @@
+BOB MARTINEZ
+Backend Developer
+Email: bob.martinez@email.com | Phone: (555) 234-5678
+
+SUMMARY
+Backend developer with 3 years of experience focused on building server-side applications with Python and Java. Some exposure to frontend development. Looking to grow into a full-stack role.
+
+SKILLS
+Technical Skills: Python, Java, Flask, Django, Spring Boot, PostgreSQL, MySQL, Docker, Git, REST APIs, Linux, Bash, SQL, Unit Testing, Jenkins, CI/CD
+
+EXPERIENCE
+
+Backend Developer — ServerLogic Corp.
+March 2022 - Present
+- Developed RESTful APIs using Python Flask and Django for enterprise clients
+- Designed and optimized PostgreSQL database schemas handling millions of records
+- Built data processing scripts and ETL pipelines in Python
+- Set up Docker containers for development and staging environments
+- Configured Jenkins CI/CD pipelines for automated testing and deployments
+- Managed Linux servers and wrote Bash automation scripts
+
+Junior Developer — CodeBase Solutions
+August 2020 - February 2022
+- Built backend services using Java and Spring Boot
+- Wrote SQL queries and stored procedures for MySQL databases
+- Implemented unit testing with JUnit and pytest
+- Participated in Agile sprints and daily standups
+
+PROJECTS
+
+Inventory Management System
+- Designed a Django-based inventory tracking system for a local business
+- Implemented REST API with authentication and role-based access control
+- Used PostgreSQL with full-text search capabilities
+
+API Rate Limiter Library
+- Created an open-source Python library for API rate limiting
+- Published on PyPI with 200+ downloads per month
+
+EDUCATION
+B.S. Information Technology, University of Texas at Austin, 2020
