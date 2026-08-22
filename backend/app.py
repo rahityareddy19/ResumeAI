@@ -27,8 +27,8 @@ app = Flask(
 )
 CORS(app)
 
-# Upload directory
-UPLOAD_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "uploads")
+# Upload directory — use /tmp on Vercel (serverless filesystem is read-only)
+UPLOAD_DIR = os.environ.get("UPLOAD_DIR", "/tmp/resumeai_uploads")
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 # Allowed file extensions
