@@ -2,11 +2,23 @@
   "version": 2,
   "builds": [
     {
+      "src": "frontend/static/**",
+      "use": "@vercel/static"
+    },
+    {
       "src": "backend/app.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
+    {
+      "src": "/static/style.css",
+      "dest": "frontend/static/style.css"
+    },
+    {
+      "src": "/static/app.js",
+      "dest": "frontend/static/app.js"
+    },
     {
       "src": "/static/(.*)",
       "dest": "frontend/static/$1"
